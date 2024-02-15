@@ -1,7 +1,6 @@
 # Bike-Sales-Dashboard-MS-Excel
 We use MS Excel to analyze a bike sales dataset using data cleaning methods and visualize the insights using Excel dashboards.
 
-MS Excel Bike Sales Dashboard Project
 
 ## OVERVIEW:
 This project analyzes a dataset containing bike (cycle) sales information, including variables such as ID, Marital Status, Gender, Age, Income, Children, Properties, Location Info, and purchase status. Through thorough examination and analysis of the dataset, valuable insights can be gained to inform decision-making processes.
@@ -26,5 +25,5 @@ Slicers are added to enable dynamic filtering based on Marital Status, Region, a
 The dashboard is meticulously designed for clarity, coherence, and aesthetic appeal, with final touches applied to ensure a polished presentation.
 
 ## DASHBOARD LINK:
-Explore the fully interactive Bike Sales Dashboard here - https://t.ly/BikeSaleDashboard
+Explore the fully interactive Bike Sales Dashboard [here](https://onedrive.live.com/embed?resid=D21FAAF8464CCC9F%21126&authkey=%21AKCN4VovMepmLm4&em=2&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True)
 
