@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Bike-Sales-Dashboard-MS-Excel
 We use MS Excel to analyze a bike sales dataset using data cleaning methods and visualize the insights using Excel dashboards.
 
 MS Excel Bike Sales Dashboard Project
