@@ -25,5 +25,5 @@ Slicers are added to enable dynamic filtering based on Marital Status, Region, a
 The dashboard is meticulously designed for clarity, coherence, and aesthetic appeal, with final touches applied to ensure a polished presentation.
 
 ## DASHBOARD LINK:
-Explore the fully interactive Bike Sales Dashboard [here](https://onedrive.live.com/embed?resid=D21FAAF8464CCC9F%21126&authkey=%21AKCN4VovMepmLm4&em=2&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True)
+Explore the fully interactive Bike Sales Dashboard [here](https://1drv.ms/x/c/d21faaf8464ccc9f/EZ_MTEb4qh8ggNJ-AAAAAAABzjJ5YwGw28DKmO_eU2HxwA?e=bqmxvx)
 
